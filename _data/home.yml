@@ -1,101 +1,123 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: course-work
+    url: coursework
 
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  # - title: website
+  #   url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
+  - title: Clever
+    url: clever
+    desc: Self-hostable, end-to-end encrypted menstrual tracking platform
+
+  - title: Distributed LazIR Tag
+    url: distributed-lazIr-tag
+    desc: Decentralized multiplayer laser tag (Raspberry Pi)
+
+  - title: RLZR
+    url: RLZR
+    desc: Identifying Unexpected Internet Services
+
+  - title: Rusty ZMap
+    url: rusty-zmap
+    desc: ZMap Internet network scanning tool in Rust
+
+  - title: Whaler
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Statically analyzing Docker Compose configuration file
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Custom Keybaord/Macro Pad
+    url: keyboard
+    desc: custom pcb, firmware, gui for custom keyboard/macro pad
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+#   - title: Project 1
+#     url: overview-post
+#     desc: This is an example project, configured in _data/home.yml
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+#   - title: Project 2
+#     url: overview-post
+#     desc: Projects are shown in card layout
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+#   - title: Project 3
+#     url: overview-post
+#     desc: You can control visibility from _config.yml file
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+#   - title: Project 4
+#     url: overview-post
+#     desc: This project uses highlight markup, configured in _data/home.yml
+#     highlight: WIP
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+#   - title: Project 5
+#     url: overview-post
+#     desc: Moonwalk also has horizontal list (used in header and footer)
+#     highlight: WIP
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+#   - title: Project 6
+#     url: overview-post
+#     desc: It also has a scalable vertical list (in case you need it)
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+# old_project_entries:
+#   - title: Soopr
+#     url: https://www.soopr.co
+#     desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#     highlight: NEW
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#   - title: Cookie
+#     url: https://github.com/abhinavs/cookie
+#     desc: An open source landing website with supporting pages and integrated blog
 
-footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+#   - title: Moonwalk
+#     url: https://github.com/abhinavs/moonwalk
+#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+#   - title: Humangous
+#     url: https://www.humangous.co
+#     desc: The better people know you, the better they collaborate
 
-  - title: github
-    url: https://github.com/abhinavs
+# footer_entries:
+#   - title: abhinav's homepage
+#     url: https://www.abhinav.co
 
-  - title: feed
-    url: feed.xml
+#   - title: twitter
+#     url: https://twitter.com/abhinav
 
-misc_entries:
-  - title: this is an example vertical list
-    url: false
+#   - title: github
+#     url: https://github.com/abhinavs
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+#   - title: feed
+#     url: feed.xml
 
-  - title: and you can add data in _data/home.yml
-    url: false
+# misc_entries:
+#   - title: this is an example vertical list
+#     url: false
 
-  - title: Blog posts
-    post_list: true
-    url: false
+#   - title: you can show or hide using a boolean flag in _config.yml
+#     url: false
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+#   - title: and you can add data in _data/home.yml
+#     url: false
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+#   - title: Blog posts
+#     post_list: true
+#     url: false
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+#   - title: moonwalk on the Internet
+#     url: false
+#     entries:
+#       - title: on Github
+#         url: https://github.com/abhinavs/moonwalk
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#       - title: originally built for abhinav's homepage
+#         url: https://www.abhinav.co
 
+#       - title: this list is scalable and can be nested
+#         url: false
+#         entries:
+#           - title: this is nested inside a nested list
+#             url: false
 
+#           - title: it is easy to use, see _data/home.yml to see how to configure it.
+#             url: false
