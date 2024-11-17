@@ -14,7 +14,7 @@ project_entries:
     desc: Self-hostable, end-to-end encrypted menstrual tracking platform
 
   - title: Distributed LazIR Tag
-    url: distributed-lazIr-tag
+    url: distributed-lazir-tag
     desc: Decentralized multiplayer laser tag (Raspberry Pi)
 
   - title: RLZR
@@ -26,7 +26,7 @@ project_entries:
     desc: ZMap Internet network scanning tool in Rust
 
   - title: Whaler
-    url: overview-post
+    url: whaler
     desc: Statically analyzing Docker Compose configuration file
 
   - title: Custom Keybaord/Macro Pad
