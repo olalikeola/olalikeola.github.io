@@ -18,7 +18,7 @@ project_entries:
     desc: Decentralized multiplayer laser tag (Raspberry Pi)
 
   - title: RLZR
-    url: RLZR
+    url: rlzr
     desc: Identifying Unexpected Internet Services
 
   - title: Rusty ZMap

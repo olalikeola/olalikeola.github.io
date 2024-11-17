@@ -4,3 +4,21 @@
 @import "moonwalk";
 @import "list";
 @import "syntax";
+
+/* Custom styles for the profile image next to the description */
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;  /* Space between the image and text */
+  }
+  
+  .profile-image {
+    width: 300px;    /* Size of the image */
+    height: 150px;
+    border-radius: 50%;  /* Circular shape */
+    object-fit: cover;   /* Ensure the image fills the circle without distortion */
+  }
+  
+  .site-info {
+    max-width: 600px;  /* Optional: limit the width of the text block */
+  }
