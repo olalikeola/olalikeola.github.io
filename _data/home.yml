@@ -9,9 +9,6 @@ navbar_entries:
   #   url: https://www.abhinav.co
 
 project_entries:
-  - title: Clever
-    url: clever
-    desc: Self-hostable, end-to-end encrypted menstrual tracking platform
 
   - title: Distributed LazIR Tag
     url: distributed-lazir-tag
@@ -32,6 +29,14 @@ project_entries:
   - title: Custom Keybaord/Macro Pad
     url: keyboard
     desc: custom pcb, firmware, gui for custom keyboard/macro pad
+
+  - title: Homelab
+    url: homelab
+    desc: my homelab
+
+  - title: Clever
+    url: clever
+    desc: Self-hostable, end-to-end encrypted menstrual tracking platform
 
 #   - title: Project 1
 #     url: overview-post
