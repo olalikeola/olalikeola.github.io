@@ -30,9 +30,9 @@ project_entries:
     url: keyboard
     desc: custom pcb, firmware, gui for custom keyboard/macro pad
 
-  - title: Homelab
-    url: homelab
-    desc: my homelab
+  # - title: Homelab
+  #   url: homelab
+  #   desc: my homelab
 
   - title: Clever
     url: clever
