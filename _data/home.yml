@@ -26,6 +26,10 @@ project_entries:
     url: whaler
     desc: Statically analyzing Docker Compose configuration file
 
+  - title: Clever
+    url: clever
+    desc: Self-hostable, end-to-end encrypted menstrual tracking platform
+
   - title: Custom Keybaord/Macro Pad
     url: keyboard
     desc: custom pcb, firmware, gui for custom keyboard/macro pad
@@ -33,10 +37,6 @@ project_entries:
   # - title: Homelab
   #   url: homelab
   #   desc: my homelab
-
-  - title: Clever
-    url: clever
-    desc: Self-hostable, end-to-end encrypted menstrual tracking platform
 
 #   - title: Project 1
 #     url: overview-post
